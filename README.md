@@ -1,2 +1,2 @@
-# Calculadora_py
+# Exercicios_python
  calculadora em python tkinter
